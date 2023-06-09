@@ -9,7 +9,7 @@ public class CaterpillarGame {
 	}
 
 	public static void main(String[] args) throws IOException {
-		// calls on constructor (Java executes the main method
+		// calls on constructor (Java executes the main method before a class' constructor)
 		new CaterpillarGame();
 	}
 

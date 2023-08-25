@@ -1,6 +1,9 @@
-# The-Caterpillar-Game
-### “Copycat” version of the Snake Game in Java 
-- This version of the game drew a caterpillar to eat the apple instead of a snake 
-- Gained hands-on experience with front-end tools **(Java GUI: Graphical User Interface and Swing),** used front-end interfaces such as ActionListener 
-- Utilized **OOP (Object Oriented Programming)**, worked with file writing and processing
-- Worked with **data structures (arrays)**
+
+**Creativity:** Reimagined the classic Snake Game as "The Caterpillar Game"
+
+**Utilizing Front-End Tools:** Implemented interactive front-end features for engaging gameplay using Java GUI and Swing
+
+**Expertise in OOP & Data Structures:** Applied Object-Oriented Programming and file manipulation
+
+**Performance Optimization:** Proficiently managed data structures, enhancing game performance.
+
